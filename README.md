@@ -1,12 +1,12 @@
 # Speech Error Elicitation Task
 
-This repository contains code for a **naturalistic planned speech error elicitation paradigm** designed to investigate speech error patterns as two participants work collaboratively to navigate a maze.
+This repository contains code for a **naturalistic speech error elicitation task** designed to investigate speech error patterns as two participants work collaboratively to navigate several mazes.
 
-**Who to contact:** sshuf@mit.edu, hsierliu@mit.edu
+**Who to contact:** hsierliu@mit.edu, sshuf@mit.edu
 
 ## Task Procedure
 
-Each participant completes a 2-minute training to learn to associate each icon with the corresponding words. This phase includes: reading each word aloud while viewing its associated icon, completing a brief multiple-choice identification task, and typing the name of the icon. 
+Each participant completes a 2-minute training to learn the corresponding icon for each word. This phase includes: reading each word aloud while viewing the icon, completing a brief multiple-choice task, and typing the name of the icon. 
 
 Each participant completes two sets of maze tasks, serving a different role in each. In Task 1, participant 1 will serve as the direction $${\color{green}giver}$$, and participant 2 will serve as the $${\color{orange}drawer}$$; vice versa for Task 2. Participants are trained in each role and asked to complete the following tasks for each set.
 
@@ -22,5 +22,5 @@ In each round, partners are presented with *different* 4×4 mazes that share the
 Practice rounds are **untimed**.
 
 ### 2. Partner-Based Test (2 rounds; 6 minutes each)
-The same role assignments from the practice phase are maintained. Participants now complete a larger **6×6 maze** under a 6-minute time limit.  
+The same role assignments from the practice phase are maintained. Participants now complete a larger **6×6 maze** with a 6-minute time limit.  
 All other procedures remain identical to the practice phase.

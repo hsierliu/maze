@@ -1,27 +1,19 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
+# Installed dependencies and generated builds
+node_modules/
+dist/
 
-node_modules
-dist
-dist-ssr
+# Local credentials and Vercel project metadata
+.env
+.env.*
+!.env.example
 *.local
+.vercel/
 
-# Editor directories and files
+# Logs and editor/OS files
+logs/
+*.log
+.DS_Store
 .vscode/*
 !.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
+.idea/
 *.sw?
-
-
-.env
